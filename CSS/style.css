@@ -51,6 +51,7 @@ a {
 }
 
 .nav-link{
+  font-family: 'Lora', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   color: #475569;
